@@ -8,7 +8,7 @@ let allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:3002",
   "http://localhost:3001",
-  "https://icy-ground-04cbd900f.4.azurestaticapps.net",
+  "https://lively-mud-0940bf50f.1.azurestaticapps.net",
 ];
 
 app.use(
